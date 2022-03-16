@@ -17,6 +17,12 @@ body{
     width: 90%;
     max-width: 1440px;
 }
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
 #logo{
     color: darkorchid;
     font-size: 60px;
@@ -47,6 +53,11 @@ body{
     font-weight: bold;
 
 }
+.shampoos{
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bold;
+}
 .promocao-maquiagens{
     font-size: 30px;
     margin: 10px;
@@ -59,6 +70,7 @@ body{
     font-size: 20px;
     font-weight: bold;
     margin: 32px;
+    
 }
 #condicionador-truss{
     color: black;
@@ -66,6 +78,7 @@ body{
     font-size: 20px;
     margin: 20px;
     font-weight: bold;
+    
 }
 #mascara-cabelo{
     color: black;
@@ -73,6 +86,7 @@ body{
     font-size: 20px;
     margin: 20px;
     font-weight: bold;
+    
 }
 #espuma-deva{
     color: black;
@@ -101,6 +115,7 @@ body{
     font-size: 20px;
     margin: 20px;
     font-weight: bold;
+    
 }
 #base-mari{
     color: black;
@@ -122,6 +137,7 @@ body{
     font-size: 20px;
     margin: 20px;
     font-weight: bold;
+    
 }
 #kit-pinceis{
     color: black;
@@ -137,6 +153,16 @@ body{
     margin: 20px;
     font-weight: bold;
 }
+#foto-mulher-negra{
+    margin-right: auto 30px;
+    display: block;
+}
+#frase{
+    font-size: 40px;
+    text-align: left;
+    font-family: 'Satisfy', cursive;
+    color: blueviolet;
+}
 .imagens-cabelo{
     display: flex;
     justify-content: space-between;
@@ -148,4 +174,291 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
     margin: 20px;
+}
+#titulo-pagina2{
+    font-family: 'Pacifico';
+    font-size: 30px;
+    text-align: center;
+    margin-left: 40px;
+}
+#titulo-inicio2{
+    font-size: 25px;
+    width: 100%;
+    margin-left: 40px;
+}
+#titulo-cabelo2{
+    font-size: 25px;
+    width: 100%;
+    margin-left: 40px;
+}
+#titulo-make2{
+    font-size: 25px;
+    width: 100%;
+    margin-left: 40px;
+}
+#sessao-make{
+    font-size: 30px;
+    width: 100%;
+    margin-left: 40px;
+}
+#sessao-cabelo{
+    font-size: 30px;
+    margin-left: 40px;
+}
+#base-bt{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#base-dior{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#base-fenty{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#base-franciny{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#base-mac{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#base-nars{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#paleta-oceane{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#paleta-mari-maria{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#paleta-anastacia{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#contorno-franciny{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#contorno-boca-rosa{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#contorno-tbmake{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#curiosidades-make{
+    font-family: 'Pacifico';
+    font-size: 30px;
+    text-align: center;
+    margin-left: 40px;
+}
+#fatos-make{
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+    margin: 20px
+}
+#fatos-make2{
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+    margin: 20px
+}
+#fatos-make3{
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+    margin: 20px
+}
+#fatos-make4{
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+    margin: 20px
+}
+#fatos-make5{
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+    margin: 20px
+}
+#frase-final{
+    color: rgb(186, 10, 192);
+    margin: 10px;
+    font-size: 30px;
+    margin: 20px
+}
+/* SESSÃO DE CABELO */
+
+#shampoo-bumble{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#shampoo-grande{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#shampoo-wella{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#shampoo-redken{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+.paletas{
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bold;
+}
+.bases{
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bold;
+}
+.paletas-contornos{
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bold;
+}
+.condicionador{
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bold;
+}
+#titulo-cabelo3{
+    font-family: 'Pacifico';
+    font-size: 30px;
+    text-align: center;
+    margin-left: 40px;
+}
+#titulo-inicio3{
+    font-size: 25px;
+    width: 100%;
+    margin-left: 40px;
+}
+#titulo-sessao3{
+    font-size: 25px;
+    width: 100%;
+    margin-left: 40px;
+}
+#titulo-make3{
+    font-size: 25px;
+    width: 100%;
+    margin-left: 40px;
+}
+#condicionador-authentic{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#condicionador-redken{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#condicionador-grande{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#shampoo-keraste{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#sol-de-janeiro{
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold
+}
+#curiosidades-de-cabelo{
+    font-family: 'Pacifico';
+    font-size: 30px;
+    text-align: center;
+    margin-left: 40px;
+    
+}
+#texto-curiosidades{
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+    margin: 20px
+}
+#texto-cronograma{
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+    margin: 20px
+}
+#texto-final{
+    color: black;
+    margin: 10px;
+    font-size: 30px;
+    margin: 20px
 }
